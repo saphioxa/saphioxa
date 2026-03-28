@@ -11,5 +11,5 @@
                        █████                                                    
                       ▒▒▒▒▒
 ```
-[![Saphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saphioxa)](https://github.com/anuraghazra/github-readme-stats)
+[![Saphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=plrz)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=saphioxa&style=pixel)
